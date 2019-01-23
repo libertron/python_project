@@ -1,0 +1,1 @@
+calculer=lambda a,b:a+b
